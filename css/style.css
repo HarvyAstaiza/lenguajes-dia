@@ -1,0 +1,13 @@
+.back{
+    background-color: #02052ee5;
+}
+.txt_gal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: fantasy;
+    color:aqua;
+}
+.nav.navbar {
+    background-color: #CC1414;
+}
